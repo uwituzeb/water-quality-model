@@ -11,5 +11,20 @@ To create the water potability classification model, [dataset](https://drive.goo
 dataset contains 9 columns of data with variables or parameters that affect the potability(quality) of water. The target variable is the potability of
 the water, which is a binary classification.
 
-# Putting this here to push an update 
+## Report
+
+This [report](https://docs.google.com/document/d/1AgdmvRp8qyNhfxO5LFJ3Hs75yyKc_AaFCAi10gq8i64/edit?usp=sharing) contains:
+- Training summaries, results, and conclusions for each combination attempted by team members.
+- Insights from experiments and challenges faced by each member as per the video instructions.
+- Summary Table
+
+## Video presentation
+
+[Presentation Link](https://drive.google.com/file/d/1egeRT9AQPasG2AuHfXz_bVBhuNd700O8/view?usp=sharing)
+
+## Contributors
+
+- Bernice Uwituze
+- Jallah Sumbo
+- Ronald Abimbola
 
