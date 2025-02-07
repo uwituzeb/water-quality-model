@@ -20,7 +20,7 @@ This [report](https://docs.google.com/document/d/1AgdmvRp8qyNhfxO5LFJ3Hs75yyKc_A
 
 ## Video presentation
 
-[Presentation Link](https://drive.google.com/file/d/1egeRT9AQPasG2AuHfXz_bVBhuNd700O8/view?usp=sharing)
+[Presentation Link](https://drive.google.com/file/d/14BR4BXGdF_uZl8S0_1GZnnjIMjCteBrn/view?usp=sharing)
 
 ## Contributors
 
